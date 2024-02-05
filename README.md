@@ -1,6 +1,4 @@
 # LGSM-Restart-for-memory-leak
-checks memory utilization and wars or restarts lgsm server on thresholds
-
 its just a quick dirty copy and paste job that restarts the game on demand when memory usage gets to high
 to help out a firend so the server does not have to crash or restart in fixed intervals (:
 

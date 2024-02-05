@@ -16,6 +16,7 @@ free | awk 'FNR == 2 {print 100-(($2-$3)/$2)*100}' |cut -d "." -f1
 
 ### rcon
 client: [GitHub - gorcon/rcon-cli: RCON client for executing queries on game server.](https://github.com/gorcon/rcon-cli)
+
 Official commands: [Palworld tech guide](https://tech.palworldgame.com/server-commands)
 
 Test message

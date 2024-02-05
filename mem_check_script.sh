@@ -30,7 +30,7 @@ then
 sleep 30s
 /home/pwserver/pwserver restart
 echo "$date : Alert T2 : The memory usage has reached $realmem% on $host." >> $logfile
-# Put your own threshold1 commands here
+# Put your own threshold2 commands here
 # and before here
 fi
 fi

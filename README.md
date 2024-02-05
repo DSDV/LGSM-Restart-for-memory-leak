@@ -2,6 +2,8 @@
 its just a quick dirty copy and paste job that restarts the game on demand when memory usage gets to high
 to help out a firend so the server does not have to crash or restart in fixed intervals (:
 
+[https://linuxgsm.com/](https://linuxgsm.com/servers/pwserver/)
+
 ## Memory Leak Workaround
 ### memory check
 Source: [How to simply check free memory and take action when a threshold is reached | Christophe Casalegno](https://www.christophe-casalegno.com/how-to-simply-check-free-memory-and-take-action-when-a-threshold-is-reached)
